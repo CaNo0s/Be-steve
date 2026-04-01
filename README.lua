@@ -1,6 +1,3 @@
-# Be-steve
-Sigma
-
 
 		local targetName = game.Players.LocalPlayer.Name
 		local player = game.Players:FindFirstChild(targetName)
